@@ -19,18 +19,23 @@ Public release packages for the Automatia game.
 
 If the client doesn't start up, run it in a terminal to get the reason. Try enabling compatiblity_mode in config.json.
 
-Here are some commands you need to know:
-1. Ctrl+F to toggle flying (R=down, T=up)
-2. /w [world] to enter another world
+## Keyboard controls
+
+1. WASD to move around, Space=jump, Q=throw, E=menu
+2. Enter to toggle chatbox
+3. Tab to toggle building directly in the air
+4. Ctrl+F to toggle flying (R=down, T=up)
+5. /w [world] to enter another world
     - `/w std`
     - `/w farms`
     - `/w winter`
     - `/w water`
     - `/w desert`
     - `/w limbo`
-3. Shift+F1-F4 to control the sun
-4. Shift+F5 to toggle debug lighting
-5. Shift+F11 to toggle entity pivots and sector boundries
+6. Shift+F1-F4 to control the sun
+7. Shift+F5 to toggle debug lighting
+8. Shift+F11 to toggle entity pivots and sector boundries
+9. Shift+F12 to toggle debug stats
 
 ## Graphics settings
 
