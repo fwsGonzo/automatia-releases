@@ -1,17 +1,11 @@
-# automatia-releases
+# Automatia Public Releases
 
 Public release packages for the Automatia game.
 
 ## Automated Release Publishing
 
-This repository is configured to automatically publish draft releases. When a draft release is created (typically from the private automatia repository), a GitHub Actions workflow will automatically:
+- [Download for 64-bit Linux](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-linux.zip)
+- [Download for 64-bit Windows](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-windows.zip)
+- [Download for 64-bit macOS](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-macos.zip) (NOTE: Needs tweaking)
 
-1. Publish the draft release (make it public)
-2. Mark it as the latest release
-
-The packages included in each release:
-- `automatia-linux.zip`
-- `automatia-macos.zip`
-- `automatia-windows.zip`
-
-No manual intervention is required - just create the draft release and the automation will handle the rest.
+© 2012-2026 Alf-André Walla. All rights reserved.
