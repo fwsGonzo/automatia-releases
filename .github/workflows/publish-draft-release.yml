@@ -1,0 +1,35 @@
+name: Auto-Publish Draft Release
+
+on:
+  release:
+    types: [created]
+
+jobs:
+  publish-release:
+    runs-on: ubuntu-latest
+    # Only run if the release is a draft
+    if: github.event.release.draft == true
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Publish Draft Release
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const releaseId = context.payload.release.id;
+            
+            console.log(`Publishing draft release ${releaseId}`);
+            
+            // Update the release to set draft=false and make_latest=true
+            await github.rest.repos.updateRelease({
+              owner,
+              repo,
+              release_id: releaseId,
+              draft: false,
+              make_latest: true
+            });
+            
+            console.log(`Successfully published release: ${context.payload.release.name || context.payload.release.tag_name}`);
