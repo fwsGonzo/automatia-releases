@@ -8,12 +8,14 @@ Public release packages for the Automatia game.
 
 - [Download for 64-bit Linux](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-linux.zip)
 - [Download for 64-bit Windows](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-windows.zip)
-- [Download for 64-bit macOS](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-macos.zip) (NOTE: Needs tweaking)
+- [Download for 64-bit macOS](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-macos.zip)
+
+Note: On macOS you will need to `brew install` protobuf and jemalloc.
 
 ## Mini player-guide
 
 1. Edit config.json to set net_user to a nickname
-2. Set net_uuid to a randomly generated UUID (remove dashes for now)
+2. Set net_uuid to a randomly generated UUID
 3. Set server_address to a public server IP (or keep localhost and run your own local server)
 4. Start the client
 
