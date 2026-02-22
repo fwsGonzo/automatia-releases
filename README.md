@@ -4,6 +4,8 @@ Public release packages for the Automatia game.
 
 <img width="600" height="400" alt="Screenshot from 2026-02-05 10-57-07" src="https://github.com/user-attachments/assets/d772bf97-8fa6-4410-a64f-c9a417d6c406" />
 
+https://github.com/user-attachments/assets/89ec4535-8b79-4edb-8a37-78e292e246ff
+
 ## Automated Release Publishing
 
 - [Download for 64-bit Linux](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-linux.zip)
