@@ -31,11 +31,13 @@ If the client doesn't start up, run it in a terminal to get the reason. Try enab
 4. Ctrl+F to toggle flying (R=down, T=up)
 5. /w [world] to enter another world
     - `/w std`
+    - `/w desert`
     - `/w farms`
+    - `/w jungle`
     - `/w winter`
     - `/w water`
-    - `/w desert`
     - `/w limbo`
+    - `/dev`
 6. Shift+F1-F4 to control the sun
 7. Shift+F5 to toggle debug lighting
 8. Shift+F11 to toggle entity pivots and sector boundries
@@ -46,6 +48,7 @@ If the client doesn't start up, run it in a terminal to get the reason. Try enab
 With a beefy PC you can:
 - Increase `raycast_shadows` to 128, or even more to get large shadow rays from the sun
 - Increase `multisampling` and `anisotropy` to 16 for smooth edges
+- Use `supersampling` but be careful with values above 4x. 2x is visibly smooth!
 - Enable `reflect_terrain` for terrain reflections
 - Increase `viewdist` for instane view distances, at increasing RAM usage
 
