@@ -2,7 +2,7 @@
 
 Public release packages for the Automatia game.
 
-<img width="600" height="400" alt="Screenshot from 2026-02-05 10-57-07" src="https://github.com/user-attachments/assets/d772bf97-8fa6-4410-a64f-c9a417d6c406" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/ced0affc-ade1-417e-a3bb-acdf4bbc7192" />
 
 https://github.com/user-attachments/assets/89ec4535-8b79-4edb-8a37-78e292e246ff
 
