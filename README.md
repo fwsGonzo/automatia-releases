@@ -57,4 +57,10 @@ You can increase performance by:
 - Disable `raycast_shadows`
 - Lower `multisampling` and `anisotropy` to 1 and 4 respectively
 
+## Blog posts
+
+[Automatia Update: Sleeping with the Fishes](https://libriscv.no/blog/sleeping-with-the-fishes)
+
+[Automatia: Update 5](https://libriscv.no/blog/automatia-5)
+
 © 2012-2026 Alf-André Walla. All rights reserved.
