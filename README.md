@@ -27,9 +27,13 @@ If the client doesn't start up, run it in a terminal to get the reason. Try enab
 
 1. WASD to move around, Space=jump, Q=throw, E=menu
 2. Enter to toggle chatbox
-3. Tab to toggle building directly in the air
-4. Ctrl+F to toggle flying (R=down, T=up)
-5. /w [world] to enter another world
+3. Escape to open the settings menu
+4. Tab to toggle building directly in the air
+5. Ctrl+F to toggle flying (R=down, T=up) if admin
+6. F5 / F6 to toggle GUI / Minimap
+7. F7 to edit waypoints
+8. F8 to toggle waypoint where you stand
+9. /w [world] to enter another world
     - `/w std`
     - `/w desert`
     - `/w farms`
@@ -38,10 +42,10 @@ If the client doesn't start up, run it in a terminal to get the reason. Try enab
     - `/w water`
     - `/w limbo`
     - `/dev`
-6. Shift+F1-F4 to control the sun
-7. Shift+F5 to toggle debug lighting
-8. Shift+F11 to toggle entity pivots and sector boundries
-9. Shift+F12 to toggle debug stats
+10. Shift+F1-F4 to control the sun
+11. Shift+F5 to toggle debug lighting
+12. Shift+F11 to toggle entity pivots and sector boundries
+13. Shift+F12 to toggle debug stats
 
 ## Graphics settings
 
@@ -50,6 +54,7 @@ With a beefy PC you can:
 - Increase `multisampling` and `anisotropy` to 16 for smooth edges
 - Use `supersampling` but be careful with values above 4x. 2x is visibly smooth!
 - Enable `reflect_terrain` for terrain reflections
+- Enable SSAO and shadow mapping
 - Increase `viewdist` for instane view distances, at increasing RAM usage
 
 You can increase performance by:
@@ -58,6 +63,8 @@ You can increase performance by:
 - Lower `multisampling` and `anisotropy` to 1 and 4 respectively
 
 ## Blog posts
+
+[Automatia Update: All Aboard!](https://libriscv.no/blog/all-aboard)
 
 [Automatia Update: Sleeping with the Fishes](https://libriscv.no/blog/sleeping-with-the-fishes)
 
