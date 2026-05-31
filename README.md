@@ -116,6 +116,10 @@ The dashboard provides player management, allow-list control, automation rules, 
 
 ## Blog posts
 
+[Automatia Update: Better Living Through Alchemy](https://libriscv.no/blog/better-living-through-alchemy)
+
+[Automatia Update: Pulling the (API) Strings](https://libriscv.no/blog/pulling-the-strings)
+
 [Automatia Update: All Aboard!](https://libriscv.no/blog/all-aboard)
 
 [Automatia Update: Sleeping with the Fishes](https://libriscv.no/blog/sleeping-with-the-fishes)
