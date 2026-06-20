@@ -116,6 +116,8 @@ The dashboard provides player management, allow-list control, automation rules, 
 
 ## Blog posts
 
+[Automatia Update: A Card Game with a Bluffing Twist](https://libriscv.no/blog/hot-potato-cards/)
+
 [Automatia Update: Better Living Through Alchemy](https://libriscv.no/blog/better-living-through-alchemy)
 
 [Automatia Update: Pulling the (API) Strings](https://libriscv.no/blog/pulling-the-strings)
