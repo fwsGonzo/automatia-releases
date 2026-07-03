@@ -114,7 +114,13 @@ cd webservice && deno task start
 
 The dashboard provides player management, allow-list control, automation rules, audit log, backups, and live server logs. Configure access via the `AUTOMATIA_API_KEY` and `AUTOMATIA_API_URL` environment variables. TLS is supported via `deno task start:tls` with `TLS_CERT` and `TLS_KEY`.
 
+## Buying
+
+Once the game reaches a certain level of playability, it will be made available for purchase. It will be a one-time payment, with no micro-transactions. You can run your own local server and invite other people to play.
+
 ## Blog posts
+
+[Automatia Update: The Rising Tide](https://libriscv.no/blog/the-rising-tide)
 
 [Automatia Update: A Card Game with a Bluffing Twist](https://libriscv.no/blog/hot-potato-cards/)
 
