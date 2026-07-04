@@ -1,4 +1,4 @@
-# Automatia Public Releases
+# Automatia Game
 
 Automatia is a game under development. It is a progression-based RPG with NPCs, story and multiple worlds. It can also be played co-operatively with other players in randomly generated worlds, like a sandbox.
 
