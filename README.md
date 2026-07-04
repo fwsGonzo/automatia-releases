@@ -6,13 +6,10 @@ Automatia is a game under development. It is a progression-based RPG with NPCs, 
 
 https://github.com/user-attachments/assets/89ec4535-8b79-4edb-8a37-78e292e246ff
 
-## Automated Release Publishing
+## Trying the game
 
-- [Download for 64-bit Linux](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-linux.zip)
-- [Download for 64-bit Windows](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-windows.zip)
-- [Download for 64-bit macOS](https://github.com/fwsGonzo/automatia-releases/releases/latest/download/automatia-macos.zip)
+You can try the game in the browser at https://automatia.libriscv.no:3000/
 
-Note: On macOS you will need to `brew install` jemalloc.
 
 ## Mini player-guide
 
