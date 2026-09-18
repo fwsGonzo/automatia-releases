@@ -2,9 +2,7 @@
 
 Automatia is a game under development. It is a progression-based RPG with NPCs, story and multiple worlds. It can also be played co-operatively with other players in randomly generated worlds, like a sandbox.
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/f034aa7e-e2d6-4558-bad9-ed1b1ebb6beb" />
-
-https://github.com/user-attachments/assets/89ec4535-8b79-4edb-8a37-78e292e246ff
+[![Automatia new intro](https://img.youtube.com/vi/162dFw0aoWw/0.jpg)](https://www.youtube.com/watch?v=162dFw0aoWw)
 
 ## Trying the game
 
