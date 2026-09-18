@@ -4,6 +4,8 @@ Automatia is a game under development. It is a progression-based RPG with NPCs, 
 
 [![Automatia new intro](https://img.youtube.com/vi/162dFw0aoWw/0.jpg)](https://www.youtube.com/watch?v=162dFw0aoWw)
 
+Watch the [new player introduction](https://www.youtube.com/watch?v=162dFw0aoWw).
+
 ## Trying the game
 
 You can try the game in the browser at https://automatia.libriscv.no:3000/
